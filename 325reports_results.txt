@@ -1,0 +1,225 @@
+
+Wed Dec 11                                         page    1
+             Tutor Session Assignment Breakdown
+
+Tutor  Tutor Last Name                                      
+------ ------------------------------                       
+Tutor Email                    Feedback Sessio              
+------------------------------ -------- ------              
+798213 Johnson                                              
+djon198@gmail.com                  5.00 015760              
+                                                            
+       Johnson                                              
+djon198@gmail.com                  5.00 015775              
+                                                            
+                                                            
+798561 Brown                                                
+jbrown456@gmail.com                3.00 015674              
+                                                            
+       Brown                                                
+jbrown456@gmail.com                3.00 015689              
+                                                            
+                                                            
+798678 Lee                                                  
+slee789@gmail.com                  4.00 015832              
+                                                            
+       Lee                                                  
+slee789@gmail.com                  4.00 015874              
+                                                            
+                                                            
+
+Student Payment Details Report                                                  
+Stu ID STU_FNAME                      Student Last Name                         
+------ ------------------------------ ------------------------------            
+Student Email                                                                   
+------------------------------------------------------------                    
+STU_SUBJ                                                     Paymen Payment Owed
+------------------------------------------------------------ ------ ------------
+Due Date                                                                        
+----------                                                                      
+214876 Lucas                          Martinez                                  
+lmartinez999@humboldt.edu                                                       
+Economics                                                    011122          .00
+                                                                                
+                                                                                
+                                                                                
+214990 Michael                        Williams                                  
+mwilliams129@humboldt.edu                                                       
+History                                                      011116          .00
+                                                                                
+                                                                                
+                                                                                
+215244 Benjamin                       Davis                                     
+bdavis532@humboldt.edu                                                          
+Computer Science                                             011120          .00
+                                                                                
+                                                                                
+                                                                                
+215682 David                          Taylor                                    
+dtaylor340@humboldt.edu                                                         
+Chemistry                                                    011114        30.00
+12/15/2024                                                                      
+                                                                                
+                                                                                
+216112 James                          Garcia                                    
+jgarcia256@humboldt.edu                                                         
+Math                                                         011118          .00
+                                                                                
+                                                                                
+                                                                                
+216432 Adam                           Davis                                     
+adavis209@humboldt.edu                                                          
+Math                                                         011110          .00
+                                                                                
+                                                                                
+                                                                                
+216487 Eve                            Johnson                                   
+ejohnson223@humboldt.edu                                                        
+Physics                                                      011111        50.00
+12/15/2024                                                                      
+                                                                                
+                                                                                
+216839 Mia                            Hernandez                                 
+mhernandez344@humboldt.edu                                                      
+Computer Science                                             011123        40.00
+12/15/2024                                                                      
+                                                                                
+                                                                                
+217543 John                           Smith                                     
+jsmith458@humboldt.edu                                                          
+Computer Science                                             011112          .00
+                                                                                
+                                                                                
+                                                                                
+217876 Olivia                         Jones                                     
+ojones774@humboldt.edu                                                          
+Psychology                                                   011117       100.00
+12/15/2024                                                                      
+                                                                                
+                                                                                
+217999 Henry                          Lopez                                     
+hlopez221@humboldt.edu                                                          
+Biology                                                      011124          .00
+                                                                                
+                                                                                
+                                                                                
+218433 Isabella                       Miller                                    
+imiller847@humboldt.edu                                                         
+Engineering                                                  011119          .00
+                                                                                
+                                                                                
+                                                                                
+218975 Sophia                         Martinez                                  
+smartinez981@humboldt.edu                                                       
+Biology                                                      011113          .00
+                                                                                
+                                                                                
+                                                                                
+219345 Emily                          Brown                                     
+ebrown672@humboldt.edu                                                          
+English                                                      011115          .00
+                                                                                
+                                                                                
+                                                                                
+219567 Charlotte                      Rodriguez                                 
+crodriguez412@humboldt.edu                                                      
+Math                                                         011121          .00
+                                                                                
+                                                                                
+                                                                                
+
+“LearningResources”                                                                                                                               
+LR_ID  WS_ID  # Problems Difficulty                                                                                                                   
+------ ------ ---------- ----------                                                                                                                   
+000001 ws_500          3          1                                                                                                                   
+000002 ws_510          5        1.4                                                                                                                   
+000003 ws_511         20        5.3                                                                                                                   
+000004 ws_512          6        2.9                                                                                                                   
+000005 ws_513          7        3.7                                                                                                                   
+000006 ws_514          8          5                                                                                                                   
+000007 ws_515          9          8                                                                                                                   
+000008 ws_516         20          9                                                                                                                   
+000009 ws_517         50         10                                                                                                                   
+000010 ws_518         69        9.4                                                                                                                   
+000011 ws_519          7        9.5                                                                                                                   
+000012 ws_520        100        3.2                                                                                                                   
+000013 ws_521          4        1.1                                                                                                                   
+000014 ws_522         34        6.5                                                                                                                   
+000015 ws_523          2          5                                                                                                                   
+
+“LearningResources”                                                                                                                               
+LR_ID  TXT_ID Title                                                 # Pages Format                                                                    
+------ ------ -------------------------------------------------- ---------- --------------------------------------------------                        
+000031 000031 Introduction to Physics                                   120 PDF                                                                       
+000032 000032 Biology Fundamentals                                      200 EPUB                                                                      
+000033 000033 Advanced Mathematics                                      300 Hardcover                                                                 
+000034 000034 Astronomy Basics                                          150 Paperback                                                                 
+000035 000035 Music Theory                                              100 PDF                                                                       
+000036 000036 World History                                             180 EPUB                                                                      
+000037 000037 Computer Science Basics                                   220 Hardcover                                                                 
+000038 000038 Cybersecurity Fundamentals                                140 PDF                                                                       
+000039 000039 Environmental Science                                     160 Paperback                                                                 
+000040 000040 Economics Introduction                                    170 EPUB                                                                      
+000041 000041 Psychology 101                                            190 PDF                                                                       
+000042 000042 Operating Systems Guide                                   250 Hardcover                                                                 
+000043 000043 Cryptography Principles                                   300 PDF                                                                       
+000044 000044 American Literature                                       200 Paperback                                                                 
+000045 000045 Philosophy of Ethics                                      180 EPUB                                                                      
+
+“LearningResources”                                                                                                                               
+LR_ID  TEST_I Title                                              TIME_TO_COMPLETE     # Problems                                                      
+------ ------ -------------------------------------------------- -------------------- ----------                                                      
+000001 000016 Math Test                                          30 mins                      10                                                      
+000002 000017 Chemistry Test                                     45 mins                      12                                                      
+000003 000018 Physics Test                                       20 mins                       8                                                      
+000004 000019 Biology Test                                       40 mins                      15                                                      
+000005 000021 Computer Science Test                              50 mins                      10                                                      
+000006 000022 Psychology Test                                    35 mins                       9                                                      
+000007 000023 History Test                                       25 mins                      11                                                      
+000008 000024 Introduction to Economics Test                     30 mins                      10                                                      
+000009 000025 English Test                                       45 mins                      13                                                      
+000010 000026 Basic Literature Test                              20 mins                       7                                                      
+000011 000027 Advanced Math Test                                 60 mins                      14                                                      
+000012 000028 Cybersecurity Test                                 40 mins                      12                                                      
+000013 000029 Advanced Chemistry Test                            70 mins                      15                                                      
+000014 000030 Physics Test                                       90 mins                      20                                                      
+000015 000031 Physics Test II                                    90 mins                      20                                                      
+SP2-0158: unknown COLUMN option "Count”"
+
+“ResourceCategoriesandCounts”                                                                                                 
+“Category”       TOTAL_RESOURCE_COUNT                                                                                         
+-------------------- --------------------                                                                                         
+Text                                   15                                                                                         
+Test                                   15                                                                                         
+WS                                     15                                                                                         
+
+Wed Dec 11                                                                                                               page    1
+                                                      Faculty Contributions
+
+Faculty              NUMBER_OF_CONTRIBUTIONS                                                                                      
+-------------------- -----------------------                                                                                      
+Olivia Davis                               1                                                                                      
+Sophia Martinez                            1                                                                                      
+Benjamin Harris                            1                                                                                      
+Greg Olsen                                 1                                                                                      
+David Lee                                  1                                                                                      
+Lucas Anderson                             1                                                                                      
+Mia Lopez                                  1                                                                                      
+Emily Johnson                              1                                                                                      
+James Brown                                1                                                                                      
+Isabella Miller                            1                                                                                      
+Anna Smith                                 1                                                                                      
+John Wilson                                1                                                                                      
+Aiden Clark                                1                                                                                      
+Michael Jones                              1                                                                                      
+Charlotte Moore                            1                                                                                      
+
+Wed Dec 11                                                                                                                                             page    1
+                                                                      Send to Collections
+
+Broke Student        DATE_DUE     Debt Revenue                                                                                                                  
+-------------------- --------- ------- ----------                                                                                                               
+Eve Johnson          15-DEC-24     $50 wait :(                                                                                                                  
+David Taylor         15-DEC-24     $30 wait :(                                                                                                                  
+Olivia Jones         15-DEC-24    $100 wait :(                                                                                                                  
+Mia Hernandez        15-DEC-24     $40 wait :(                                                                                                                  

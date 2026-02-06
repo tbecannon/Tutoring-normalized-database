@@ -1,0 +1,44 @@
+Raul Cano, Joshua Wong, Thomas Becannon
+CS 325 - Fall 2024
+11/17/2024
+Student(STU_ID, stu_fname, stu_lname, stu_email, stu_subj)
+Session(SESS_ID, sess_date, sess_subject, sess_type)
+Group(SESS_ID, TUTOR_ID)
+	Foreign key (sess_id) references Session,
+	Foreign key (tutor_id) references Tutor
+Group_Stu(SESS_ID, STU_ID)
+	Foreign key(sess_id) references Group,
+	Foreign key(stu_id) references Student
+Individual(SESS_ID, TUTOR_ID, STU_ID)
+	Foreign key(sess_id) references Session,
+	Foreign key(tutor_id) references Tutor,
+	Foreign key(stu_id) references Student
+Tutor(TUTOR_ID, tutor_fname, tutor_lname, tutor_email, tutor_feedback)
+Tutor_subj(TUTOR_ID, TUTOR_SUBJECT)
+	Foreign key(tutor_id) references Tutor
+Feedback(STU_ID, TUTOR_ID, feedback_desc, feedback_stars, feedback_date)
+	Foreign key(stu_id) references Student
+	Foreign key(tutor_id) references Tutor
+Learning_resources(LR_ID, lr_subject, lr_type)
+Faculty_contrib(LR_ID, FAC_ID)
+	foreign key(lr_id) references Learning_resources
+	foreign key (fac_id) references Faculty
+Worksheets(WS_ID,lr_id, num_problems, difficulty)
+	foreign key (lr_id) references Learning_resources
+Test(TEST_ID,lr_id, test_title, num_problems, time_to_complete)
+	foreign key (lr_id) references Learning_resources
+Text(TXT_ID,lr_id, text_title, pages, format)
+	foreign key (lr_id) references Learning_resources
+Faculty(FAC_ID, Fac_fname, fac_lname, fac_subject, fac_email, fac_office)
+Progress_Dashboard(DASH_ID, STU_ID)
+	Foreign key(stu_id) references Student
+Payment(PAYMENT_ID, dash_id, payment_owed, date_due)
+	foreign key(DASH_ID) reference Progress_Dashboard
+Schedule(COURSE_ID, dash_id, course_days, course_time)
+	foreign key(dash_id) references Progress_Dashboard
+	foreign key(course_id) references Courses
+Courses(COURSE_ID, dash_id, course_title, course_grade,  weeks_completed)
+	Foreign key(dash_id) references Progress_Dashboard
+
+
+
